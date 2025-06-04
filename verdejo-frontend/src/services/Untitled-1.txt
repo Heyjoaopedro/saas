@@ -1,0 +1,112 @@
+Desenvolver a base da sua ideia de negócio inovador. Focar principalmente em duas dimensões:
+
+📌 1. Modelo de Negócio (Business Model Canvas)
+📌 2. MVP Conceitual (Protótipo não funcional)
+
+🎯 Objetivo da Primeira Etapa
+
+Aplicar o conteúdo estudado sobre planejamento, criatividade e empreendedorismo**, refletindo sobre tendências e propondo uma solução inovadora em equipe.
+
+🧩 Etapas da Primeira Entrega
+
+1.Pesquisa sobre Megatendências
+
+- Consultar estudos como o do IPEA (população, tecnologia, meio ambiente etc.).
+
+- Identificar problemas reais que precisam de solução no futuro.
+
+2.Pesquisa sobre Tendências Tecnológicas
+
+- Tecnologias como IA, Big Data, IoT, Blockchain, Realidade Aumentada, Computação Quântica etc.
+
+- Relacionar essas tendências com as oportunidades identificadas.
+
+3.Criação da Ideia Individual
+
+- Refletir sobre:
+
+    - Suas habilidades
+
+    - Paixões
+
+    - Problemas reais que te interessam resolver
+
+- Estruturar a ideia com:
+
+    - Qual problema resolve?
+
+    - Qual megatendência está ligada?
+
+    - Qual tecnologia está relacionada?
+
+    - Qual o impacto e grau de inovação?
+
+4.Discussão em Equipe e Escolha da Ideia Final
+
+- Compartilhar as ideias individuais.
+
+- Escolher:
+
+    - A melhor
+
+    - Ou uma combinação de várias
+
+    - Ou uma nova ideia gerada em conjunto
+
+- Produzir um relato da decisão, com:
+
+    - Descrição das ideias individuais
+
+    - Avaliação de cada uma
+
+    - Resumo com notas de inovação e impacto
+
+    - Descrição da ideia escolhida
+
+5.Business Model Canvas
+
+- Preencher os 9 blocos:
+
+    - Segmento de clientes, Proposta de valor, Canais, Relacionamento, Fontes de receita, Recursos principais, Atividades-chave, Parcerias e Estrutura de custos
+
+- Anexar imagem + explicação em texto
+
+6.Criação do MVP Conceitual
+
+- Um protótipo visual e descritivo do produto/serviço:
+
+    - Pode ser feito em papel, ferramentas como Figma ou Canva, ou outro programa de design
+
+    - Deve comunicar como funciona e para quem
+
+    - Pode conter esboços de telas, fluxos, funcionalidades etc.
+
+7.Gravação do Pitch (2 minutos)
+
+- Explicar de forma rápida:
+
+    - O problema
+
+    - A solução
+
+    - O tamanho do mercado
+
+    - O modelo de receita
+
+    - A equipe
+
+- Postar no YouTube como "não listado" e colocar o link no relatório
+
+8.Relatório Final da Etapa
+
+- Deve conter:
+
+    - Documento das ideias e da decisão da equipe
+
+    - Canvas + texto explicativo
+
+    - MVP (imagens/fotos ou link)
+
+    - Link do vídeo do pitch
+
+    - Referências bibliográficas

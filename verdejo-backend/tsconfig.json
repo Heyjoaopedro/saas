@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",                         // Versão do JS gerado
+    "module": "commonjs",                       // Módulo padrão para Node.js
+    "rootDir": "src",                           // Código-fonte na pasta src
+    "outDir": "dist",                           // Compilados vão para dist
+    "strict": true,                             // Regras estritas do TS
+    "moduleResolution": "node",                // Resolve node_modules
+    "esModuleInterop": true,                    // Permite `import express from 'express'`
+    "forceConsistentCasingInFileNames": true,   // Evita problemas de maiúsculas/minúsculas
+    "skipLibCheck": true,                       // Ignora tipos de dependências
+    "resolveJsonModule": true,                  // Permite importar arquivos .json
+    "typeRoots": ["./node_modules/@types", "./src/@types"]
+  },
+  "include": ["src"],                           // Inclui tudo dentro de src
+  "exclude": ["node_modules", "dist"]           // Ignora node_modules e dist
+}
